@@ -218,13 +218,3 @@ Displayed in Operator Dashboard & Public Map
 ```
 
 ---
-
----
-
-<div align="center">
-
-### 🌱 Smart Cities Start With Smart Waste Management
-
-**BinSync**
-
-</div>
